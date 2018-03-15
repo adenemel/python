@@ -1,14 +1,14 @@
 HW1.PY
 
 
-Öncelikle sayıları ekledim. 
-Array  indekslerinin yerlerini dağınık ayarladım . 
-Bir tane dublicate yani tekrar eden sayı ekledim.  
-Arrayi ekrana gönderdim ve yazdırdım . 
-'x' değişkenine  4950 (1-99 arasındaki sayıların toplamı) değerini atadım.
+İlk önce sayıları ekledim. 
+Array indekslerinin yerlerini karışık bir şekilde  ayarladım . 
+Dublicate (tekrar eden) sayı ekledim.  
+Arrayi ekrana göndererek  yazdırma işlemini gerçekleştirdim . 
+'x'e  4950 (1-99 arasındaki sayıların toplamı) değerini atadım.
 Arrayin indexi kadar döndürdüm.
-Sonra toplam için döngüde arrayın elemanını ekleyerek toplamı buldum. 
-'toplam' değişkeninden 'x' değişkenini çıkartarak ekrana bastım.
+Toplam için döngüye arrayın elemanını ekleyerek toplamı buldum. 
+'toplam' değerden 'x' değerini çıkartarak ekrana yazdırdım.
 
 
 HW2.PY
