@@ -1,0 +1,28 @@
+HW1.PY
+
+
+Öncelikle sayıları ekledim. 
+Array  indekslerinin yerlerini dağınık ayarladım . 
+Bir tane dublicate yani tekrar eden sayı ekledim.  
+Arrayi ekrana gönderdim ve yazdırdım . 
+'x' değişkenine  4950 (1-99 arasındaki sayıların toplamı) değerini atadım.
+Arrayin indexi kadar döndürdüm.
+Sonra toplam için döngüde arrayın elemanını ekleyerek toplamı buldum. 
+'toplam' değişkeninden 'x' değişkenini çıkartarak ekrana bastım.
+
+
+HW2.PY
+
+2 tane integer değer isteyerek numara1 ve numara2 değişkenlerine atadım. 
+1 tane string değeri de str değişkenine atadım. 
+Girilen 2 int değerin arası sileneceği için girilen ilk sayı kadar olan string girdiyi str
+adlı değişkene, girilen ikinci sayıden sonraki string değeri str2 adlı değişkene 
+atadım ve ekrana bastırdım. 
+
+
+HW3.PY
+
+Bir string değer aldım str değişkenine atadım. 
+'arr' adından bir list oluşturdum. 'arr' adlı arrayin içine girilen 
+string değeri her harf bir indexe gelecek şekilde bir işlem yaptırdım .
+Sonrasında tekrar eden indexleri ayırdım ve çıkan sonucu ekrana bastırdım.
