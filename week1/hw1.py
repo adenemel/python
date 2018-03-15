@@ -1,19 +1,19 @@
 # week1
 dongu = int(input("kaç işlem yapmak istersiniz"))
 for i in range(0,dongu):
-    birincisayi = int(input("Birinci sayıyı giriniz:"))
-    ikincisayi = int(input("İkinci sayiyi giriniz:"))
-    islem = input("Yapacağınız 4  işlemden birini seçiniz(+,-,/,*):")
+    sayi1 = int(input("Sayı1'i giriniz:"))
+    sayi2 = int(input("Sayı2'i giriniz:"))
+    islem = input("Yapılacak 4  işlemden birini seçiniz(+,-,/,*):")
     if islem == "+" :
-        print (birincisayi+ikincisayi)
+        print (sayi1+sayi2)
     elif islem == "-" :
-        print (birincisayi-ikincisayi)
+        print (sayi1-sayi2)
     elif islem == "*" :
-        print (birincisayi*ikincisayi)
-    elif (islem == "/") & (ikincisayi==0):
-        print ("Gecerli bir sayi girisi yapiniz")
+        print (sayi1*sayi2)
+    elif (islem == "/") & (sayi2==0):
+        print ("Gecerli sayi girisi yapiniz")
     elif islem =="/" :
-        print (birincisayi/ikincisayi)
+        print (sayi1/sayi2)
     elif islem == "exit":
         break
     else:
