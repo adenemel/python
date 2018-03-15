@@ -15,14 +15,14 @@ HW2.PY
 
 2 tane integer değer isteyerek numara1 ve numara2 değişkenlerine atadım. 
 1 tane string değeri de str değişkenine atadım. 
-Girilen 2 int değerin arası sileneceği için girilen ilk sayı kadar olan string girdiyi str
-adlı değişkene, girilen ikinci sayıden sonraki string değeri str2 adlı değişkene 
-atadım ve ekrana bastırdım. 
+Girilen 2 int değişkenin arası sileneceği için ,girilen ilk sayı olan string girildiği str
+adlı değişkene, girilen ikinci sayıdan sonraki string değeri str2 değişkene 
+atadım ve ekrana yazdırdım. 
 
 
 HW3.PY
 
-Bir string değer aldım str değişkenine atadım. 
-'arr' adından bir list oluşturdum. 'arr' adlı arrayin içine girilen 
-string değeri her harf bir indexe gelecek şekilde bir işlem yaptırdım .
-Sonrasında tekrar eden indexleri ayırdım ve çıkan sonucu ekrana bastırdım.
+Bir tane string değer aldım ve onu str değişkenin içine atadım. 
+'arr' adından bir list oluşturulup, 'arr' adındaki arrayin içine girilmiş olan 
+string değeri  harflerin bir indexe gelecek şekilde ayarlanıp işlem yaptım .
+Ardından tekrarlanan indexleri ayırarak sonucu ekrana yazdırdım.
