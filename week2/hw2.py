@@ -1,9 +1,9 @@
 while True:
-	    num1 = input("Num 1: ")
-	    num1 = int(num1) - 1
-	    num2 = input("Num 2: ")
-	    num2 = int(num2)
+	    numara1 = input("Numara 1: ")
+	    numara1 = int(numara1) - 1
+	    numara2 = input("Numara 2: ")
+	    numara2 = int(numara2)
 	    str = input("String: ")
-	    str2 = str[num2:]
-	    str = str[:num1]
+	    str2 = str[numara2:]
+	    str = str[:numara1]
 	    print (str,str2)
