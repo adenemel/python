@@ -1,0 +1,3 @@
+# Homework - Week 3
+
+> Girdi alarak 'input'  değişkenine atadım. 'rev'fonksiyonu oluşturdum. 'arr'  list oluşturup içine girdiyi aktardım. 'leng'  değişkenin oluşturup içine 'arr' listin boyutunu int olarak atadım. Ardından 'ave' adlı değişkene leng/2 diyerek uzunluğu ikiye böldüm. 'single' adında bir boolean değişkene 'True' değer tanımladım. 'leng' isimli uzunluk değişkenime tek/çift kontrolü yaptım. Çift ise 'single' değişkenimin değerini 'False' olarak değiştirdim. Sonrasında eğer tek ise 'ave' adlı değişkene içerisindeki sayıyı yuvarlayıp kendisine atadım. 'ave2' diye bir değişken daha oluşturup 'ave' değişkeni içerisindeki sayıyı tanımladım. Bir döngü oluşturup 0'dan başlayıp girilen string değeri reverse ettim harf harf sırayla ve çıktıyı ekrana bastım.
